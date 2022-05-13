@@ -39,3 +39,8 @@
         </td>
  </tr>
  <tr>
+<h1 align="center">Technologies</h1>
+<p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167900449-4fb57eb4-89b4-46bc-ac21-d0ebebf9dae5.png" alt="languages" width="100%"/> </a> <a
+</p>
+
+ <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->

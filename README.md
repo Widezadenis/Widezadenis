@@ -5,9 +5,9 @@
 
 <p align="center">
 <a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://user-images.githubusercontent.com/96489451/168606802-d633032d-2dfe-4bca-9499-49a4a7ad7eee.png" alt="adxwable"  width="100" /></a>
-<a href="https://www.linkedin.com/in/widezaDenis/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605800-af78fc8a-1425-4bd7-9a97-0af16656637a.png" alt="widezadenis" height="40" width="40" /></a>
-<a href="https://github.com/Widezadenis"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605814-7c264168-6a0c-4a06-943c-a41c56c31b5b.png" alt="widezad" height="40" width="40" /></a>
-<a href="mailto:widezad@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605826-7a7c1535-a0ef-46a6-8877-37296851e50b.png" alt="widezad" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/widezaDenis/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605800-af78fc8a-1425-4bd7-9a97-0af16656637a.png" alt="widezadenis" width="100" /></a>
+<a href="https://github.com/Widezadenis"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605814-7c264168-6a0c-4a06-943c-a41c56c31b5b.png" alt="widezad" width="100" /></a>
+<a href="mailto:widezad@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605826-7a7c1535-a0ef-46a6-8877-37296851e50b.png" alt="widezad" width="100" /></a>
 </p>
 
 

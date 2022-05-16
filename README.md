@@ -1,7 +1,7 @@
-<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/167765808-884b28c5-f5be-4b19-ae39-ed0c652c96fd.png">
+<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/168524561-b487faf4-ec68-4c6e-af05-d6f3814a845d.png">
 
 <h1 align="center">Hi 👋, I'm Wideza</h1>
-<h3 align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations.</h3>
+<p align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations. I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.</p>
 
 <p align="center">
 <a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://user-images.githubusercontent.com/96489451/167769563-f27371c6-0794-4443-b6b9-d32fcb26c94f.png" alt="adxwable" height="30" width="30" /></a>
@@ -21,29 +21,29 @@
           <h3 align="center">Meal Finder</h3>
           <p align="center">
             <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
-            <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a> </span>
+            <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a> </span>
             <p align="center">
               Generate a recipe to make dinner based on cravings.
             </p>
           </p>
         </td>
       <td width="50%">
-          <h3 align="center">Coming Soon</h3>
+          <h3 align="center">Love's Ice Cream</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/bpzGcl67SF1kynYIXN/giphy.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/Widezadenis/Love-s-Ice-Cream" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
-              Coming Soon
+              Love's Ice Cream
             </p>
           </p>
         </td>
  </tr>
  <tr>
-   <td width="50%">
+  <td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168532003-c020dcf8-2057-45cb-bb5a-81ffa17bbaa3.png" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
               Coming Soon
             </p>
@@ -53,8 +53,8 @@
    <td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167774166-d9e6d8ac-91e5-4d58-8789-3903c00c517f.png" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(203,191,186)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(203,191,186)?style=flat-square" alt="button to live website" height="25px"></a> </span>
+            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168532003-c020dcf8-2057-45cb-bb5a-81ffa17bbaa3.png" alt="project example"/> </a>
+            <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to live website" height="25px"></a> </span>
             <p align="center">
               coming Soon
             </p>
@@ -64,8 +64,42 @@
   </table>
 </div>
 
+
 <h1 align="center">Technologies</h1>
-<p align="center" color="rgb(203,191,186)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/167900449-4fb57eb4-89b4-46bc-ac21-d0ebebf9dae5.png" alt="languages" width="100%"/> </a> <a
+<p align="center" color="rgb(152,69,245)"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168528109-019758f7-d067-415c-803c-76ff33a009f2.png" alt="languages" width="100%"/> </a> <a
 </p>
 
- <!--<div> <img src="https://www.codewars.com/users/Widezad/badges/large">-->
+  
+ <h1 align="center">Stats</h1>
+ <div align="center">
+   <table>
+      <tr>
+        <td width="50%">
+            <p align="center"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" >               </p>
+        </td>
+       <td width="50%">
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"> </p>
+       </td>
+ </tr>
+ <tr>
+ </tr>
+  </table>
+</div>
+
+  
+  
+
+
+
+ 
+
+
+  
+
+
+
+
+  
+ 
+
+ 

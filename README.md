@@ -4,10 +4,10 @@
 <p align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations. I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.</p>
 
 <p align="center">
-<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://user-images.githubusercontent.com/96489451/167769563-f27371c6-0794-4443-b6b9-d32fcb26c94f.png" alt="adxwable" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/widezaDenis/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96489451/167770233-ef2e1389-1c8a-4c5c-a9cc-caa7b64dc672.png" alt="widezadenis" height="40" width="40" /></a>
-<a href="https://github.com/Widezadenis"><img align="center" src="https://user-images.githubusercontent.com/96489451/167770846-9d52340a-1139-4891-8ec9-ec239e63914e.png" alt="widezad" height="40" width="40" /></a>
-<a href="mailto:widezad@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/167771283-dffc9688-605e-47bc-b33b-d598c1e61ae2.png" alt="widezad" height="40" width="40" /></a>
+<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="twit-removebg-preview" src="https://user-images.githubusercontent.com/96489451/168605833-6de7a915-8714-42e2-a97f-741e144ae5f7.png" alt="adxwable" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/widezaDenis/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605800-af78fc8a-1425-4bd7-9a97-0af16656637a.png" alt="widezadenis" height="40" width="40" /></a>
+<a href="https://github.com/Widezadenis"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605814-7c264168-6a0c-4a06-943c-a41c56c31b5b.png" alt="widezad" height="40" width="40" /></a>
+<a href="mailto:widezad@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605826-7a7c1535-a0ef-46a6-8877-37296851e50b.png" alt="widezad" height="40" width="40" /></a>
 </p>
 
 
@@ -88,22 +88,6 @@
 
   
   
-<img width="195" alt="in-removebg-preview" src="https://user-images.githubusercontent.com/96489451/168605800-af78fc8a-1425-4bd7-9a97-0af16656637a.png">
-
-
-
- <img width="176" alt="github-removebg-preview" src="https://user-images.githubusercontent.com/96489451/168605814-7c264168-6a0c-4a06-943c-a41c56c31b5b.png">
-
-
-
-  
-<img width="188" alt="mail-removebg-preview" src="https://user-images.githubusercontent.com/96489451/168605826-7a7c1535-a0ef-46a6-8877-37296851e50b.png">
-
-
-
-
-  <img width="135" alt="twit-removebg-preview" src="https://user-images.githubusercontent.com/96489451/168605833-6de7a915-8714-42e2-a97f-741e144ae5f7.png">
-
  
 
  

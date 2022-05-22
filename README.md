@@ -86,6 +86,9 @@
   </table>
 </div>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=widezadenis&bg_color=000009&color=9845f5&line=9845f5&point=403d3d&area=true&hide_border=true"
+     >
+
   
  
 

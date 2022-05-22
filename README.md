@@ -23,7 +23,7 @@
             <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
             <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a> </span>
             <p align="center">
-               <strong> JavaScript, CSS3, HTML5 </strong> Fully responsive web application to generate a recipe to make dinner based on cravings.
+               <strong> JavaScript, CSS3, HTML5 - </strong> Fully responsive web application to generate a recipe to make dinner based on cravings.
             </p>
           </p>
         </td>
@@ -33,7 +33,7 @@
             <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/bpzGcl67SF1kynYIXN/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/Widezadenis/Love-s-Ice-Cream" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
-              <strong> JavaScript, CSS3, HTML5 </strong> - Fully resposive mobile and desktop web app for costumers of Loves who waant to browse the website and place and order.
+              <strong> JavaScript, CSS3, HTML5 - </strong> Fully resposive mobile and desktop web app for costumers of Loves who waant to browse the website and place and order.
             </p>
           </p>
         </td>

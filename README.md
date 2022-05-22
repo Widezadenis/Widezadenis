@@ -45,7 +45,7 @@
             <a href="https://www.widezadenis.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/oIwiyFzMuJVgaSpoLo/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/Widezadenis/Portfolio" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://www.widezadenis.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
-              HTML5, CSS3, & Javascript - Portfolio Site including links to my projects and ways to get in contact with me.
+              <strong> JavaScript, CSS3, HTML5 - </strong> Portfolio Site including links to my projects and ways to get in contact with me.
             </p>
           </p>
          </td>

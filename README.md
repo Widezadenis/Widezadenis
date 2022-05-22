@@ -38,19 +38,19 @@
           </p>
         </td>
  </tr>
- <!---<tr>
+<tr>
   <td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
-            <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168532003-c020dcf8-2057-45cb-bb5a-81ffa17bbaa3.png" alt="project example"/> </a>
+            <a href="https://github.com/Widezadenis/Portfolio" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168532003-c020dcf8-2057-45cb-bb5a-81ffa17bbaa3.png" alt="project example"/> </a>
             <span> <a href="#" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
               Coming Soon
             </p>
           </p>
-        </td>
+         </td>
               
-   <td width="50%">
+   <!---<td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168532003-c020dcf8-2057-45cb-bb5a-81ffa17bbaa3.png" alt="project example"/> </a>

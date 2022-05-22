@@ -92,6 +92,5 @@
   
  
 
- https://media.giphy.com/media/oIwiyFzMuJVgaSpoLo/giphy.gif
 
  

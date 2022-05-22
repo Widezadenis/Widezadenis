@@ -33,7 +33,7 @@
             <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/bpzGcl67SF1kynYIXN/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/Widezadenis/Love-s-Ice-Cream" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
             <p align="center">
-              Love's Ice Cream
+              <strong> JavaScript, CSS3, HTML5 </strong> Fully resposive mobile and desktop web app for costumers of Loves who waant to browse the website and place and order.
             </p>
           </p>
         </td>

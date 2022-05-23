@@ -38,7 +38,7 @@
           </p>
         </td>
  </tr>
-<tr>
+<!--<tr>
   <td width="50%">
           <h3 align="center">Widezadenis.com</h3>
           <p align="center">
@@ -60,7 +60,7 @@
             </p>
           </p>
         </td>
-      </tr>
+      </tr>-->
   </table>
 </div>
 

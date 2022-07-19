@@ -11,7 +11,7 @@
 </p>
 
 
-<h1 align="center">Projects</h1>
+<!--<h1 align="center">Projects</h1>
 
 
 <div align="center">
@@ -38,7 +38,7 @@
           </p>
         </td>
  </tr>
-<!--<tr>
+<tr>
   <td width="50%">
           <h3 align="center">Widezadenis.com</h3>
           <p align="center">

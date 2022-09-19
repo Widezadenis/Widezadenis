@@ -7,7 +7,7 @@
 <a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>
 <a href="https://www.linkedin.com/in/widezaDenis/" target="blank"><img align="center" src="https://img.shields.io/badge/WidezaDenis-292D3F?style=for-the-badge&logo=linkedin&logoColor=rgb(199,146,233)" height=25 alt="widezadenis" /></a>
 <a href="https://www.codewars.com/users/Widezad"><img align="center" src="https://img.shields.io/badge/Codewars-292D3F?style=for-the-badge&logo=Codewars&logoColor=rgb(199,146,233)" height=25" alt="widezad" /></a>
-<a href="mailto:widezad@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/96489451/168605826-7a7c1535-a0ef-46a6-8877-37296851e50b.png" alt="widezad" width="100" /></a>
+<a href="mailto:widezad@gmail.com"><img align="center" src="https://img.shields.io/badge/widezad@gmail.com-292D3F?style=for-the-badge&logo=gmail&logoColor=rgb(199,146,233)" height=25" alt="widezad" /></a>
 </p>
 
 

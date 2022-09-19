@@ -1,7 +1,7 @@
 <img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/191069168-7b7494d8-6dda-4734-8917-3e26060c4fed.png">
 
-<h1 align="center">Hi 👋, I'm Wideza</h1>
-<p align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations. I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.</p>
+<h1 align="center">Hi, I'm Wideza</h1>
+<p align="center">A creative, innovative, and passionate software developer,  eager to leverage skills learned from personal experiences, and creative outlets to design solutions and solve problems through innovative solutions and collaborations. </p>
 
 <p align="center">
 <a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>

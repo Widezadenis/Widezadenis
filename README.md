@@ -1,4 +1,4 @@
-<img width="100%" alt="shecancodes" src="https://www.canva.com/design/DAFMsA9a2r4/xqUn1bW9h8_4LpNOvvrkOw/edit?utm_content=DAFMsA9a2r4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/191069168-7b7494d8-6dda-4734-8917-3e26060c4fed.png">
 
 <h1 align="center">Hi 👋, I'm Wideza</h1>
 <p align="center">A passionate full-Stack developer from Florida, I work to create excellent, responsive websites that suits the needs and wants of my clients. I am eager to solve problems through innovative solutions and collaborations. I am currently open to any new clients or opportunities. Please feel free to contact me through email or Linkedin.</p>

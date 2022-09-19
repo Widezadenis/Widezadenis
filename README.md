@@ -78,7 +78,7 @@
             <p align="center"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=midnight-purple" >               </p>
         </td>
        <td width="50%">
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=material-palenight"> </p>
        </td>
  </tr>
  <tr>

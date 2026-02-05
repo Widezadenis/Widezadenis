@@ -1,7 +1,7 @@
 <img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/191069168-7b7494d8-6dda-4734-8917-3e26060c4fed.png">
 
 <h1 align="center">Hi, I'm Wideza</h1>
-<p align="center">A creative, innovative, and passionate software developer,  eager to leverage skills learned from personal experiences, and creative outlets to design solutions and solve problems through innovative solutions and collaborations. </p>
+<p align="center">Creative, innovative, and passionate Data Analyst,  with a passion to innovate complex datasets and utilizing analytical skills to drive company growth and efficiencies to draw conclusions, make prediction, and drive informed decision making. </p>
 
 <p align="center">
 <a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>

@@ -4,9 +4,9 @@
 <p align="center">Creative, innovative, and passionate Data Analyst,  with a passion to innovate complex datasets and utilizing analytical skills to drive company growth and efficiencies to draw conclusions, make prediction, and drive informed decision making. </p>
 
 <p align="center">
-<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>
+<!--<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>
 <a href="https://www.linkedin.com/in/widezaDenis/" target="blank"><img align="center" src="https://img.shields.io/badge/WidezaDenis-292D3F?style=for-the-badge&logo=linkedin&logoColor=rgb(199,146,233)" height=25 alt="widezadenis" /></a>
-<a href="https://www.codewars.com/users/Widezad"><img align="center" src="https://img.shields.io/badge/Codewars-292D3F?style=for-the-badge&logo=Codewars&logoColor=rgb(199,146,233)" height=25" alt="widezad" /></a>
+<a href="https://www.codewars.com/users/Widezad"><img align="center" src="https://img.shields.io/badge/Codewars-292D3F?style=for-the-badge&logo=Codewars&logoColor=rgb(199,146,233)" height=25" alt="widezad" /></a>-->
 <a href="mailto:widezad@gmail.com"><img align="center" src="https://img.shields.io/badge/widezad@gmail.com-292D3F?style=for-the-badge&logo=gmail&logoColor=rgb(199,146,233)" height=25" alt="widezad" /></a>
 </p>
 

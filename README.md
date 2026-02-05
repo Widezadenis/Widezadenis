@@ -69,7 +69,8 @@
 
 <h1 align="center">Technologies</h1>
 <p align="center" color="rgb(152,69,245)"> <a href="#" target="_blank" rel="noreferrer"> <!--<img src="https://user-images.githubusercontent.com/96489451/191077700-f0fee6e6-25cd-4bdf-9c5f-e1eef44fc19d.png" alt="languages" width="100%"/> </a> <a-->
-<img width="958" height="301" alt="Screenshot 2026-02-05 at 2 36 25 PM" src="https://github.com/user-attachments/assets/16b4157e-0392-4b78-bd16-9dbe577c76a4" />
+<img width="792" height="234" alt="Screenshot 2026-02-05 at 2 38 45 PM" src="https://github.com/user-attachments/assets/0ff7b596-e68b-4318-9bb8-e4cbbec66404" />
+
 </p>
 
   

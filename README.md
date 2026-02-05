@@ -1,4 +1,4 @@
-<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/191069168-7b7494d8-6dda-4734-8917-3e26060c4fed.png">
+<!--<img width="100%" alt="shecancodes" src="https://user-images.githubusercontent.com/96489451/191069168-7b7494d8-6dda-4734-8917-3e26060c4fed.png">-->
 <img width="6912" height="3456" alt="Cream Black Minimalist Art Deco Wedding Banner" src="https://github.com/user-attachments/assets/153cad93-8451-4a65-9db6-32f37940c04f" />
 
 

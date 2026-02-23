@@ -83,7 +83,8 @@
    <table>
       <tr>
         <td width="50%">
-            <p align="center"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=material-palenight" > </p>
+            <p align="center"> 
+              [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=maroongold&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)<!--<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=material-palenight" >--> </p>
         </td>
        <td width="50%">
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=material-palenight"> </p>

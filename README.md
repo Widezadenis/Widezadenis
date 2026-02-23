@@ -97,7 +97,7 @@
   </table>
 </div>
 
-<img src="[https://activity-graph.herokuapp.com/graph?]username=widezadenis&bg_color=292d3f&color=a8b0cb&line=c792e9&point=7cc6e5&area=true&hide_border=true"
+<img src="[https://activity-graph.herokuapp.com/graph?]username=widezadenis&bg_color=310e10&color=310e10&line=f4e3b2&point=947268&area=true&hide_border=true"
      >
 
   

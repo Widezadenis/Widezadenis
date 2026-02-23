@@ -89,7 +89,7 @@
               <!--<img src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=material-palenight" >--> </p>
         </td>
        <td width="50%">
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=material-palenight"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=widezadenis&theme=maroongold"> </p>
        </td>
  </tr>
  <tr>

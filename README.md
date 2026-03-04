@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm Wideza</h1>
-<p align="center">I am a Data Analyst who is passionate about leveraging data to help improve health outcomes</p>
+<p align="center">I am a Data Analyst who is committed to using data to advance public health. With experience in Python, SQL, Tableau, R, and Excel, I turn raw health data into insights that help organizations improve patient outcomes, streamline processes, and make informed decisions.</p>
 
 <p align="center">
 <!--<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>
@@ -22,7 +22,7 @@
   <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Meal Finder</h3>
+          <h3 align="center">ER Wait Times</h3>
           <p align="center">
             <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
             <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a> </span>

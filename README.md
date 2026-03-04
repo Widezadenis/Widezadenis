@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm Wideza</h1>
-<p align="center">Creative, innovative, and passionate Data Analyst,  with a passion to innovate complex datasets and utilizing analytical skills to drive company growth and efficiencies to draw conclusions, make prediction, and drive informed decision making. </p>
+<p align="center">I am a Data Analyst who is passionate about leveraging data to help improve health outcomes</p>
 
 <p align="center">
 <!--<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>

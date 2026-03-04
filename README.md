@@ -32,18 +32,19 @@
             </p>
           </p>
         </td>
-      <!--<td width="50%">
-          <h3 align="center">Love's Ice Cream</h3>
+      <td width="50%">
+          <h3 align="center">Length of Stay Predictive Dashboard</h3>
           <p align="center">
-            <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/bpzGcl67SF1kynYIXN/giphy.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/Widezadenis/Love-s-Ice-Cream" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a></span>
+            <a href="https://public.tableau.com/app/profile/wideza.denis/viz/LengthofStayPredictiveDashboard/Dashboard1" target="_blank" rel="noreferrer"><img width="2719" height="1317" alt="image" src="https://github.com/user-attachments/assets/3855f11b-2603-45eb-93bd-5f50cedf8674" />
+" alt="project example"/> </a>
+            <span> <a href="https://github.com/Widezadenis/LengthOfStay-Project" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://public.tableau.com/app/profile/wideza.denis/viz/LengthofStayPredictiveDashboard/Dashboard1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to Dashboard" height="25px"></a></span>
             <p align="center">
-              <strong> JavaScript, CSS3, HTML5 - </strong> Fully resposive mobile and desktop web app for costumers of Loves who want to browse the website and place and order.
+              <strong> R, Excel, Tableau - </strong> Fully resposive mobile and desktop web app for costumers of Loves who want to browse the website and place and order.
             </p>
           </p>
         </td>
  </tr>
-<tr>
+<!--<tr>
   <td width="50%">
           <h3 align="center">Widezadenis.com</h3>
           <p align="center">

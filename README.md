@@ -15,7 +15,7 @@
 </p>
 
 
-<!--<h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1>
 
 
 <div align="center">
@@ -24,14 +24,15 @@
         <td width="50%">
           <h3 align="center">ER Wait Times</h3>
           <p align="center">
+  https://github.com/Widezadenis/Case-Study---Er-Wait-Times
             <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
-            <span> <a href="https://github.com/Widezad/Meal-Finder" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a> </span>
+            <span> <a href="https://github.com/Widezadenis/Case-Study---Er-Wait-Times" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a> </span>
             <p align="center">
-               <strong> JavaScript, CSS3, HTML5 - </strong> Fully responsive web application to generate a recipe to make dinner based on cravings.
+               <strong> R, SQL, Tableau - </strong> Analyzes Emergency Room operational data to identify the root cause of longer wait times.
             </p>
           </p>
         </td>
-      <td width="50%">
+      <!--<td width="50%">
           <h3 align="center">Love's Ice Cream</h3>
           <p align="center">
             <a href="https://lovesicecream.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/bpzGcl67SF1kynYIXN/giphy.gif" alt="project example"/> </a>

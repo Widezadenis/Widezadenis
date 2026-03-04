@@ -25,7 +25,7 @@
           <h3 align="center">ER Wait Times</h3>
           <p align="center">
   https://github.com/Widezadenis/Case-Study---Er-Wait-Times
-            <a href="" target="_blank" rel="noreferrer"> <<img width="1331" height="959" alt="image" src="https://github.com/user-attachments/assets/ce93f41a-b204-4425-93f1-9cfbc591d3cd" /> alt=""/> </a>
+            <a href="" target="_blank" rel="noreferrer"> <<img width="1331" height="959" alt="image" src="https://github.com/user-attachments/assets/ce93f41a-b204-4425-93f1-9cfbc591d3cd" /> </a>
             <span> <a href="https://github.com/Widezadenis/Case-Study---Er-Wait-Times" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(49,16,14)" alt="button to repository" height ="25px"></a> <!--<a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a>--> </span>
             <p align="center">
                <strong> R, SQL, Tableau - </strong> Analyzes Emergency Room operational data to identify the root cause of longer wait times.

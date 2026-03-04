@@ -65,9 +65,9 @@
             </p>
           </p>
         </td>
-      </tr>
+      </tr>-->
   </table>
-</div>-->
+</div>
 
 
 <h1 align="center" color=#F4E3B2>Technologies</h1>

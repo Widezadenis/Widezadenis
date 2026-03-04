@@ -25,8 +25,8 @@
           <h3 align="center">ER Wait Times</h3>
           <p align="center">
   https://github.com/Widezadenis/Case-Study---Er-Wait-Times
-            <a href="https://ournextmeal.netlify.app" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/zrErx6RfZH1eIe8Hgn/giphy.gif" alt="Meal finder"/> </a>
-            <span> <a href="https://github.com/Widezadenis/Case-Study---Er-Wait-Times" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(152,69,245)" alt="button to repository" height ="25px"></a> <!--<a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a>--> </span>
+            <a href="" target="_blank" rel="noreferrer"> <img src="" alt=""/> </a>
+            <span> <a href="https://github.com/Widezadenis/Case-Study---Er-Wait-Times" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=#310E10" alt="button to repository" height ="25px"></a> <!--<a href="https://ournextmeal.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(152,69,245)?style=flat-square" alt="button to website" height="25px"></a>--> </span>
             <p align="center">
                <strong> R, SQL, Tableau - </strong> Analyzes Emergency Room operational data to identify the root cause of longer wait times.
             </p>

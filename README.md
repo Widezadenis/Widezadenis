@@ -55,7 +55,7 @@
           </p>
          </td>
               
-   <td width="50%">
+   <!--<td width="50%">
           <h3 align="center">Coming Soon</h3>
           <p align="center">
             <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96489451/168532003-c020dcf8-2057-45cb-bb5a-81ffa17bbaa3.png" alt="project example"/> </a>
@@ -65,9 +65,9 @@
             </p>
           </p>
         </td>
-      </tr>-->
+      </tr>
   </table>
-</div>
+</div>-->
 
 
 <h1 align="center" color=#F4E3B2>Technologies</h1>

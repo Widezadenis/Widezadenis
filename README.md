@@ -35,7 +35,7 @@
           <h3 align="center">Length of Stay Predictive Dashboard</h3>
           <p align="center">
             <a href="https://public.tableau.com/app/profile/wideza.denis/viz/LengthofStayPredictiveDashboard/Dashboard1" target="_blank" rel="noreferrer"><img width="2719" height="1317" alt="image" src="https://github.com/user-attachments/assets/3855f11b-2603-45eb-93bd-5f50cedf8674" /> </a>
-            <span> <a href="https://github.com/Widezadenis/LengthOfStay-Project" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(49,16,14)" alt="button to repository" height ="25px"></a> <a href="https://public.tableau.com/app/profile/wideza.denis/viz/LengthofStayPredictiveDashboard/Dashboard1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-rgb(49,16,14)?style=flat-square" alt="button to Dashboard" height="25px"></a></span>
+            <span> <a href="https://github.com/Widezadenis/LengthOfStay-Project" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=rgb(49,16,14)" alt="button to repository" height ="25px"></a> <a href="https://public.tableau.com/app/profile/wideza.denis/viz/LengthofStayPredictiveDashboard/Dashboard1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Dashboard%20-rgb(49,16,14)?style=flat-square" alt="button to Dashboard" height="25px"></a></span>
             <p align="center">
               <strong> R, Excel, Tableau - </strong> Analyzes hospital admission data to predict patient length of stay (LoS).
             </p>

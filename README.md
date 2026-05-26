@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm Wideza</h1>
-<p align="center">I am a Data Analyst who is committed to using data to advance public health. With experience in Python, SQL, Tableau, R, and Excel, I turn raw health data into insights that help organizations improve patient outcomes, streamline processes, and make informed decisions.</p>
+<!--<p align="center">I am a Data Analyst who is committed to using data to advance public health. With experience in Python, SQL, Tableau, R, and Excel, I turn raw health data into insights that help organizations improve patient outcomes, streamline processes, and make informed decisions.</p>-->
 
 <p align="center">
 <!--<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>

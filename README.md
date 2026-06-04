@@ -83,7 +83,7 @@
  <div align="center">
    <table>
       <tr>
-        <td width="50%">
+        <td width="100%">
             <p align="center"> 
              <img  alt="widezadenis's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/widezadenis?cardType=github&theme=maroongold&fontFamily=&preferLogin=false" />
   </a>

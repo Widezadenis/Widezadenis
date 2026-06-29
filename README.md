@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm Wideza</h1>
-<p align="center">I am a Data Analyst passionate about leveraging data to improve patient outcomes and drive data-driven decision-making within healthcare organizations. I use a comprehensive tech stack, including Tableau, SQL, R, Excel, Power BI, and Python, to clean, analyze, and transform complex healthcare data into actionable insights and interactive dashboards. My projects focus on solving real-world problems, such as identifying the root cause of longer wait times in the ER, which directly assist clinical teams in improving care quality. I am eager to help organizations move from raw data to data-driven decision-making.</p>
+<p align="center">Hi, I'm Wideza! I am a data analyst passionate about leveraging data to improve patient outcomes and drive smarter decision-making. I use a comprehensive tech stack, like Tableau, SQL, R, Excel, Power BI, and Python, to clean, analyze, and transform complex healthcare data into actionable insights and interactive dashboards.My projects tackle real-world challenges, like identifying root causes of extended ER wait times to help clinical teams enhance care quality. I'm eager to help organizations turn raw data into impactful, data-driven decisions.</p>
 
 <p align="center">
 <!--<a href="https://twitter.com/adxwable" target="blank" ><img align="center" src="https://img.shields.io/badge/@adxwble-292D3F?&style=for-the-badge&logo=twitter&logoColor=rgb(199,146,233)" height=25 /></a>
